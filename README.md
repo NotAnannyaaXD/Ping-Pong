@@ -39,6 +39,11 @@
 
 
 
+
+It is a simple ping pong game. Made this cuz my brother requested me to. Controls for left - W and S key. Controls for right - Up and Down arrow key.
+
+
+
 ### ⬩➤ ⚝ ʙᴜɪʟᴛ ᴡɪᴛʜ ↴
 
 
@@ -50,8 +55,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-It is a simple ping pong game. Made this cuz my brother requested me to.
 
 
 
