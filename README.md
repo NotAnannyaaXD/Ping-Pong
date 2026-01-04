@@ -1,0 +1,95 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
+
+[![license](https://img.shields.io/badge/license-AGPL%20V3-blue)](https://github.com/minio/minio/blob/master/LICENSE)      
+
+<!-- TABLE OF CONTENTS -->
+
+
+
+
+<!-- ABOUT THE PROJECT -->
+## ⬩➤ ⚝ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ↴
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9a9aa5a-d776-440f-975c-3e3682013130" />
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### ⬩➤ ⚝ ʙᴜɪʟᴛ ᴡɪᴛʜ ↴
+
+
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+It is a simple ping pong game. Made this cuz my brother requested me to.
+
+
+
+## ⬩➤ ⚝ ᴄᴏɴᴛᴀᴄᴛ ↴
+
+
+email --> anannyaasrivastava@gmail.com
+project link --> https://notanannyaaxd.github.io/Ping-Pong/
+
+<!-- LICENSE -->
+
+
+
+## ⬩➤ ⚝ ʟɪᴄᴇɴsᴇ ↴
+
+
+
+  Copyright (C) 2026  NotAnannyaaXD
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU Affero General Public License as published
+  by the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU Affero General Public License for more details.
+
+  You should have received a copy of the GNU Affero General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+  See License.txt for more info :D
+
+  ༝༚༝༚ ♡
+
+
+
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
+<!--  END :) -->
